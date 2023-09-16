@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Henrique</h1>
-<h3 align="center">I´m a software development studant @ FATEC</h3>
+<h3 align="center">I´m a software development student @ FATEC</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pblcnr" alt="pblcnr" /></a> </p>
 
