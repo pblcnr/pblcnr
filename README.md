@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Henrique</h1>
-<h3 align="center">A Web Dev from Brazil, currently stuying software development in FATEC Franca</h3>
+<h3 align="center">A Web Dev from Brazil, currently studying software development in FATEC Franca</h3>
 
 - 📫 How to reach me **phandradefilho@hotmail.com**
 
