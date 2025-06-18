@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2023.<br>📚 I'm currently learning JavaScript, Next.js and Python.<br>🎯 Goals: Graduate and find a job.<br>🎲 Fun fact: I'm a drummer and I love music.</p>
+<p align="center">✨ Creating bugs since 2023.<br>📚 I'm currently learning Java and Spring Boot.<br>🎯 Goals: Graduate and find a job.<br>🎲 Fun fact: I'm a drummer and I love music.</p>
 
 ###
 
