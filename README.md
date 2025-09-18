@@ -72,12 +72,12 @@ At the same time, I'm expanding my knowledge to become a **fullstack developer**
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloh-andrade&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloh-andrade&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pblcnr&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblcnr&layout=compact&theme=dark" alt="Top Languages"/>
 
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauloh-andrade&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pblcnr&theme=dark" alt="GitHub Streak"/>
 
 </div>
 
